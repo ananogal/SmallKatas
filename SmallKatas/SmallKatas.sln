@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallKatas", "SmallKatas.csproj", "{37E95993-0D0A-4F37-83B5-9662ADE3F6BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{A3B648BC-B3D6-4272-B5E2-5372407F5AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37E95993-0D0A-4F37-83B5-9662ADE3F6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E95993-0D0A-4F37-83B5-9662ADE3F6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E95993-0D0A-4F37-83B5-9662ADE3F6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E95993-0D0A-4F37-83B5-9662ADE3F6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B648BC-B3D6-4272-B5E2-5372407F5AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B648BC-B3D6-4272-B5E2-5372407F5AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B648BC-B3D6-4272-B5E2-5372407F5AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B648BC-B3D6-4272-B5E2-5372407F5AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
