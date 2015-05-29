@@ -6,12 +6,12 @@ using FluentAssertions;
 namespace Tests
 {
 	[TestFixture]
-	public class VowelsFinderShould
+	public class VowelsRemoverShould
 	{
 		[Test]
 		public void FindAndRemoveAllVowelsFromASentence()
 		{
-			var finder = new VowelsFinder();
+			var finder = new VowelsRemover();
 
 			var expected = "Ths wbst s fr lsrs LL!"; 
 
