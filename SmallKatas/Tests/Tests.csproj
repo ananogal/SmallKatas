@@ -46,6 +46,7 @@
     <Compile Include="VowelsRemoverShould.cs" />
     <Compile Include="CapitalsFinderShould.cs" />
     <Compile Include="ArrayPlusOneShould.cs" />
+    <Compile Include="DirectionReducerShould.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
