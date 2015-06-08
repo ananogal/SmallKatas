@@ -47,6 +47,7 @@ In ["NORTH", "EAST", "WEST", "SOUTH", "WEST", "WEST"], "NORTH" and "SOUTH" are n
 
 You have to write a function which will take an array of strings and returns an array of strings with the needless directions removed (W<->E or S<->N side by side).
 
-#### Are they the same?
+### 5 - Are they the same?
 
+#### Description
 Given two arrays a and b write a function that checks whether the two arrays have the "same" elements, with the same multiplicities. "Same" means, here, that the elements in b are the elements in a squared, regardless of the order.
