@@ -36,6 +36,7 @@
     <Compile Include="CapitalsFinder.cs" />
     <Compile Include="ArrayPlusOne.cs" />
     <Compile Include="DirectionReducer.cs" />
+    <Compile Include="CompareSquares.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
