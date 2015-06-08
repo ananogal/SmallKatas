@@ -46,3 +46,7 @@ In ["NORTH", "SOUTH", "EAST", "WEST"], the direction "NORTH" + "SOUTH" is going 
 In ["NORTH", "EAST", "WEST", "SOUTH", "WEST", "WEST"], "NORTH" and "SOUTH" are not directly opposite but they become directly opposite after the reduction of "EAST" and "WEST" so the whole path is reducible to ["WEST", "WEST"].
 
 You have to write a function which will take an array of strings and returns an array of strings with the needless directions removed (W<->E or S<->N side by side).
+
+#### Are they the same?
+
+Given two arrays a and b write a function that checks whether the two arrays have the "same" elements, with the same multiplicities. "Same" means, here, that the elements in b are the elements in a squared, regardless of the order.
