@@ -48,6 +48,7 @@
     <Compile Include="ArrayPlusOneShould.cs" />
     <Compile Include="DirectionReducerShould.cs" />
     <Compile Include="CompareSquaresShould.cs" />
+    <Compile Include="HighestLowestFinderShould.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>

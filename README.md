@@ -51,3 +51,8 @@ You have to write a function which will take an array of strings and returns an 
 
 #### Description
 Given two arrays a and b write a function that checks whether the two arrays have the "same" elements, with the same multiplicities. "Same" means, here, that the elements in b are the elements in a squared, regardless of the order.
+
+### 6 - Highest and Lowest
+
+#### Description
+In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
