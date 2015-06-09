@@ -63,3 +63,12 @@ In this little assignment you are given a string of space separated numbers, and
 Timmy & Sarah think they are in love, but around where they live, they will only know once they pick a flower each. If one of the flowers has an even number of petals and the other has an odd number of petals it means they are in love.
 
 Write a function that will take the number of petals of each flower and return true if they are in love and false if they aren't.
+
+### 8 - Factorial
+
+#### Description
+In mathematics, the factorial of a non-negative integer n, denoted by n!, is the product of all positive integers less than or equal to n. For example: 5! = 5 * 4 * 3 * 2 * 1 = 120. By convention the value of 0! is 1.
+
+Write a function to calculate factorial for a given input. If input is below 0 or above 12 throw an exception of type ArgumentOutOfRangeException. Function skeleton is already provided, as are some test cases.
+
+More details about factorial can be found here: http://en.wikipedia.org/wiki/Factorial

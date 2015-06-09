@@ -40,6 +40,7 @@
     <Compile Include="HighestLowestFinder.cs" />
     <Compile Include="BuyCar.cs" />
     <Compile Include="OppositeChecker.cs" />
+    <Compile Include="FactorialCalculator.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
