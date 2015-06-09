@@ -38,6 +38,8 @@
     <Compile Include="DirectionReducer.cs" />
     <Compile Include="CompareSquares.cs" />
     <Compile Include="HighestLowestFinder.cs" />
+    <Compile Include="BuyCar.cs" />
+    <Compile Include="OppositeChecker.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

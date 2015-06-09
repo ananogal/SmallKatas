@@ -56,3 +56,10 @@ Given two arrays a and b write a function that checks whether the two arrays hav
 
 #### Description
 In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
+
+### 7 - Opposites Attract
+
+#### Description
+Timmy & Sarah think they are in love, but around where they live, they will only know once they pick a flower each. If one of the flowers has an even number of petals and the other has an odd number of petals it means they are in love.
+
+Write a function that will take the number of petals of each flower and return true if they are in love and false if they aren't.

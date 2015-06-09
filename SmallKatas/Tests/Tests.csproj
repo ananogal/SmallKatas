@@ -49,6 +49,8 @@
     <Compile Include="DirectionReducerShould.cs" />
     <Compile Include="CompareSquaresShould.cs" />
     <Compile Include="HighestLowestFinderShould.cs" />
+    <Compile Include="BuyCarShould.cs" />
+    <Compile Include="OppositeCheckerShould.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
