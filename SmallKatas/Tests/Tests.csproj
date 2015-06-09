@@ -52,6 +52,7 @@
     <Compile Include="BuyCarShould.cs" />
     <Compile Include="OppositeCheckerShould.cs" />
     <Compile Include="FactorialCalculatorShould.cs" />
+    <Compile Include="AcronymExpanderShould.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
